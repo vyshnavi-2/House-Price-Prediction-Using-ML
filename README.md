@@ -70,7 +70,7 @@ print(f'Mean Absolute Error: {mae:.4f}')
 
 ## Repository Structure
 ```
-📂 House-Price-Prediction
+House-Price-Prediction
 │── house_price_prediction.ipynb  # Jupyter Notebook with full code
 │── README.md                      # Project documentation
 ```
